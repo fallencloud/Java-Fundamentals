@@ -1,0 +1,19 @@
+
+C:\Users\shari\Documents\WGU\Java\project>java Roster
+Printing all students
+1       First Name: John        Last Name: Smith        Email: John1989@gmail.com       { 88, 79, 59}   2       First Name: Suzan       Last Name: Erickson     Email: Erickson_1990@gmailcom   { 91, 72, 85}   3       First Name: Jack
+Last Name: Napoli       Email: The_lawyer99yahoo.com    { 85, 84, 87}   4       First Name: Erin        Last Name: Black        Email: Erin.black@comcast.net   { 91, 98, 82}   5       First Name: Sharina     Last Name: Jones        Email: sjon323@wgu.edu  { 96, 98, 86}
+
+Invalid emails:
+Erickson_1990@gmailcom
+The_lawyer99yahoo.com
+
+
+3's grade average: 85.33
+
+3 was removed
+
+
+3 was not found
+
+C:\Users\shari\Documents\WGU\Java\project>
